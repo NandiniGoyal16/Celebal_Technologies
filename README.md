@@ -12,7 +12,7 @@ This repository contains my week-wise assignments, research, and project submiss
 ## 📌 Weekly Breakdown
 
 ### ✅ Week 1: Introduction to Networking & Protocols
-**Duration:** June 3 – June 8, 2025  
+**Duration:** June 2 – June 8, 2025  
 **Topics Covered:**
 - OSI Model (7 Layers)
 - TCP/IP Model
