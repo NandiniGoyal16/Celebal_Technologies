@@ -3,7 +3,7 @@
 Welcome to my internship journey at *Celebal Technologies*!  
 This repository contains my week-wise assignments, research, and project submissions for the **Cloud Infrastructure & Security** department.
 
-🗓️ **Internship Duration:** *June 3, 2025 – August 3, 2025*  
+🗓️ **Internship Duration:** *June 2, 2025 – August 3, 2025*  
 💻 **Mode:** *Remote*  
 🔐 **Domain:** *Cloud Infra & Security*
 
