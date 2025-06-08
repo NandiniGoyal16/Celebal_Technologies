@@ -53,7 +53,7 @@ _Stay tuned for upcoming learnings and contributions._
 
 - [LinkedIn](https://www.linkedin.com/in/nandini-goyal-6b9116259/)
 - [GitHub](https://github.com/NandiniGoyal16)
-- -[Gmail](nandinio4.goyal@gmail.com)
+- [Gmail](nandinio4.goyal@gmail.com)
 
 ---
 
