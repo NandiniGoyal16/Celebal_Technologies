@@ -28,7 +28,23 @@ This repository contains my week-wise assignments, research, and project submiss
 
 ---
 
-### ⏳ Week 2: *(To be updated...)*
+### ✅ Week 2: IP Addressing, Subnetting & MAC Layer Protocols
+**Duration:** June 9 – June 15, 2025  
+**Topics Covered:**
+- IPv4 & IPv6 Addressing
+- Subnetting (CIDR, Netmask, VLSM)
+- MAC Addressing
+- ARP & RARP (and related protocols)
+
+**Tasks Completed:**
+- 📄 R&D Document on IP Addressing and Subnetting (IPv4 & IPv6)
+- 📄 R&D Document on MAC Addressing and Functionality of ARP & RARP
+
+📁 [Week 2 Folder](./Week2)
+
+---
+
+### ⏳ Week 3: *(To be updated...)*
 _Stay tuned for upcoming learnings and contributions._
 
 ---
