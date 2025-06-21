@@ -44,7 +44,22 @@ This repository contains my week-wise assignments, research, and project submiss
 
 ---
 
-### ⏳ Week 3: *(To be updated...)*
+### ✅ Week 3: Azure Global Infrastructure
+**Duration:** June 16 – June 22, 2025
+**Topics Covered:**
+- Azure Global Architecture
+- Geographies & Regions
+- Availability Zones
+- Data Centers & Edge Zones
+
+**Tasks Completed:**
+- 📄 R&D Document on Azure Global Infrastructure: Geographies, Regions, Availability Zones, Data Centers
+
+📁 [Week 3 Folder](./Week3/)
+
+---
+
+### ⏳ Week 4: *(To be updated...)*
 _Stay tuned for upcoming learnings and contributions._
 
 ---
