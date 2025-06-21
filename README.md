@@ -45,7 +45,7 @@ This repository contains my week-wise assignments, research, and project submiss
 ---
 
 ### ✅ Week 3: Azure Global Infrastructure
-**Duration:** June 16 – June 22, 2025
+**Duration:** June 16 – June 22, 2025<br>
 **Topics Covered:**
 - Azure Global Architecture
 - Geographies & Regions
