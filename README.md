@@ -55,11 +55,37 @@ This repository contains my week-wise assignments, research, and project submiss
 **Tasks Completed:**
 - 📄 R&D Document on Azure Global Infrastructure: Geographies, Regions, Availability Zones, Data Centers
 
-📁 [Week 3 Folder](./Week3/)
+📁 [Week 3 Folder](./Week3)
 
 ---
 
-### ⏳ Week 4: *(To be updated...)*
+### ✅ Week 4: Azure Virtual Networking – VNets, Subnets, and Peering
+**Duration: June 23 – June 30, 2025**<br>
+**Topics Covered:**
+- CIDR Ranges in Azure
+- Virtual Networks (VNets) and Subnet Configuration
+- Launching and configuring Linux & Windows VMs
+- Network Security Groups (NSGs) and Inbound Rules
+- Enabling communication via Ping (ICMP)
+- VNet Peering: Concept, Types, and Implementation
+- Cross-VNet communication setup
+- Troubleshooting firewall & RDP issues
+
+**Tasks Completed:**
+- 📄 R&D Document: Practical Implementation - Deploying VMs Across Subnets and Peered VNets in Azure 
+<!-- ⚙️ Created Linux & Windows VMs in separate subnets under VNet1
+🌐 Enabled bidirectional communication (ping) using ICMP rules in NSG
+🔒 Configured Windows Firewall to allow ICMP via GUI and CLI
+🔁 Created a second Virtual Network (VNet2) and added another Linux VM
+🔗 Connected VNet1 and VNet2 using VNet Peering (bi-directional)
+📶 Verified cross-VNet connectivity by pinging between VMs across VNets
+🧹 Cleaned up all resources post-deployment to avoid credit usage  -->
+
+📁 [Week 4 Folder](./Week4)
+
+---
+
+### ⏳ Week 5: *(To be updated...)*
 _Stay tuned for upcoming learnings and contributions._
 
 ---
