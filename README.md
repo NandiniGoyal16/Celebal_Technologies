@@ -85,7 +85,36 @@ This repository contains my week-wise assignments, research, and project submiss
 
 ---
 
-### ⏳ Week 5: *(To be updated...)*
+### ✅ Week 5: NSG, ASG & IP Management in Azure
+**Duration: July 1 – July 6, 2025**<br>
+**Topics Covered:**
+- Network Security Groups (NSGs): Purpose, working, and rule configuration
+- Application Security Groups (ASGs): Logical grouping of VMs
+- Allowing specific IPs to access Azure VMs via NSG
+- Denying Internet access using outbound NSG rules
+- Public IPs: Static vs Dynamic and how to assign them
+- Service Tags in Azure (e.g., Internet, VirtualNetwork, AzureLoadBalancer)
+- Creating and managing Network Interfaces (NICs)
+
+**Tasks Completed:**
+- 📄 R&D Document: NSG, ASG, IP Management, and Network Interface Configuration in Azure
+<!-- ✅ Created and associated NSGs with subnets/NICs
+✅ Created inbound rule to allow only specific IP access to VMs
+✅ Configured outbound NSG rule to deny internet access from a VM
+✅ Created static Public IP addresses and associated them with VMs
+✅ De-associated Public IPs from NICs for cleanup testing
+✅ Created ASGs and linked VMs to them
+✅ Applied NSG rules based on ASG membership
+✅ Created additional NIC manually and attached to VM
+🖼️ Collected portal screenshots of each task and configuration
+✅ Verified connectivity and rule enforcement
+🧹 Cleaned up all created resources to preserve free-tier credits -->
+
+📁 [Week 5 Folder](./Week5)
+
+---
+
+### ⏳ Week 6: *(To be updated...)*
 _Stay tuned for upcoming learnings and contributions._
 
 ---
