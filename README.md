@@ -114,7 +114,40 @@ This repository contains my week-wise assignments, research, and project submiss
 
 ---
 
-### ⏳ Week 6: *(To be updated...)*
+### ✅ Week 6: Tiered Architecture Deployment with NSG and Server Setup
+**Duration: July 7 – July 13, 2025**<br>
+**Topics Covered:**
+- Azure Virtual Network Architecture Design
+- Subnet Planning: Web, App, DB tiers
+- Network Security Groups (NSG) configuration
+- Public & Private IP setup
+- Apache and IIS Server Installation
+- Intra-tier and inter-tier connectivity verification via ICMP (ping)
+
+**Tasks Completed:**
+- 📁 R&D Document: Tiered Application Deployment in Azure with Subnetting, NSG Configuration, and Server Setup 
+<!-- 🌐 Created three subnets:
+WebSubnet (10.0.1.0/24)
+AppSubnet (10.0.2.0/24)
+DBSubnet (10.0.3.0/24)
+💻 Deployed 6 VMs (1 Linux + 1 Windows in each subnet)
+🔐 Configured NSGs to allow/block traffic between tiers:
+Web → App ✅
+App → Web & DB ✅
+DB → Web/App ❌
+🖥️ Installed Apache Server on Linux VMs using terminal
+Verified using curl http://localhost
+🖥️ Installed IIS Server on Windows VMs via PowerShell
+🔁 Verified inter-VM connectivity using ping tests
+📝 Documented observations, screenshots, and deviations
+App and DB VMs didn’t have public IPs → Used jump box method via WebLinux
+Performed quota check and VM core limit resolution -->
+
+📁 [Week 6 Folder](./Week6)
+
+---
+
+### ⏳ Week 7: *(To be updated...)*
 _Stay tuned for upcoming learnings and contributions._
 
 ---
