@@ -147,7 +147,39 @@ Performed quota check and VM core limit resolution -->
 
 ---
 
-### ⏳ Week 7: *(To be updated...)*
+### ✅ Week 7: Internal Load Balancer Deployment & Load Balancing in Azure
+**Duration: July 14 – July 20, 2025**<br>
+**Topics Covered:**
+- Azure Load Balancer: Concepts & Types (Internal vs External)
+- Layer 4 load balancing using 5-tuple hash
+- Frontend IP, Backend Pool, Health Probes
+- Load Balancing Rule vs Inbound NAT Rule
+- Static vs Dynamic Public IP limitations (Student Subscription)
+- Internal connectivity using private IP
+- SSH using key-based authentication
+- Load balancing traffic across backend VMs using nginx
+
+**Tasks Completed:**
+- 📄 R&D on Azure Load Balancer Implementation
+<!-- 🔁 Created 3 Linux VMs in the same subnet with nginx installed and unique index pages (VM1, VM2, VM3)
+🔐 Connected via SSH using private key and terminal
+⚙️ Created Internal Load Balancer with:
+Private frontend IP: 10.0.1.10
+Backend pool (VM1, VM2, VM3 NICs)
+Health Probe (HTTP on port 80)
+Load balancing rule (TCP 80 to 80)
+📟 Verified load balancing by running curl 10.0.1.10 from VM4 in same subnet
+🖼️ Screenshots included:
+Public IPs of VMs
+SSH Output + nginx response per VM
+Internal Load Balancer setup
+Error while trying to create external load balancer (quota limit) -->
+
+📁 [Week 7 Folder](./Week7)
+
+---
+
+### ⏳ Week 8: *(To be updated...)*
 _Stay tuned for upcoming learnings and contributions._
 
 ---
