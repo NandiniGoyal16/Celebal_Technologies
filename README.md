@@ -186,7 +186,7 @@ _Stay tuned for upcoming learnings and contributions._
 
 ### 🌟 Main Internship Project: Azure Privileged Identity Management (PIM)
 
-**Project Overview:**As part of my internship at Celebal Technologies, I worked on a comprehensive project focused on Azure Privileged Identity Management (PIM), a critical feature of Microsoft Entra ID for managing, controlling, and monitoring privileged access in Azure environments. The project involved researching, documenting, and implementing PIM to enforce just-in-time (JIT) access, approval workflows, and audit trails, aligning with the principle of least privilege to enhance security.
+<b>Project Overview:</b>As part of my internship at Celebal Technologies, I worked on a comprehensive project focused on Azure Privileged Identity Management (PIM), a critical feature of Microsoft Entra ID for managing, controlling, and monitoring privileged access in Azure environments. The project involved researching, documenting, and implementing PIM to enforce just-in-time (JIT) access, approval workflows, and audit trails, aligning with the principle of least privilege to enhance security.
 
 **Tasks Completed:**
 - 📄 Project Report on Provileged Identity Management
@@ -207,7 +207,7 @@ _Stay tuned for upcoming learnings and contributions._
 - Documented challenges faced during implementation.
 - 🖼️ Included placeholders for screenshots of key configurations (e.g., role assignments, audit logs, approval workflows).
 
-📁 [Main Project](./Main Project)
+📁 [Main-Project](./Main-Project)
 
 **Future Steps:**
 - Work with tenant administrators to clarify student plan restrictions.
