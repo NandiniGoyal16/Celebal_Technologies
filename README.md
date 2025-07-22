@@ -184,6 +184,38 @@ _Stay tuned for upcoming learnings and contributions._
 
 ---
 
+### 🌟 Main Internship Project: Azure Privileged Identity Management (PIM)
+
+**Project Overview:**As part of my internship at Celebal Technologies, I worked on a comprehensive project focused on Azure Privileged Identity Management (PIM), a critical feature of Microsoft Entra ID for managing, controlling, and monitoring privileged access in Azure environments. The project involved researching, documenting, and implementing PIM to enforce just-in-time (JIT) access, approval workflows, and audit trails, aligning with the principle of least privilege to enhance security.
+
+**Tasks Completed:**
+- 📄 Project Report on Provileged Identity Management
+- Introduction to PIM and its key features (JIT access, approval workflows, audit trails).
+- Setup prerequisites (Azure AD Premium P2 licensing, admin roles).
+- Configuring Azure AD roles and Azure resource roles in PIM.
+- Setting up privileged access groups and approval processes.
+- Managing break-glass accounts and analyzing audit history.
+- Exploring eligible vs. active roles and setting role time limits.
+- Advanced features like Azure Monitor integration and PowerShell automation.
+- Case studies and troubleshooting guides.
+
+**🛠️ Attempted practical implementation of PIM in Azure Portal, including:**
+- Assigning roles to users and groups.
+- Configuring role settings (e.g., MFA, approval requirements).
+- Testing JIT access activation.
+- Creating privileged access groups and setting up approval workflows.
+- Documented challenges faced during implementation.
+- 🖼️ Included placeholders for screenshots of key configurations (e.g., role assignments, audit logs, approval workflows).
+
+📁 [Main Project](./Main Project)
+
+**Future Steps:**
+- Work with tenant administrators to clarify student plan restrictions.
+- Test PIM implementation on a trial or pay-as-you-go subscription.
+- Enhance the PIM document with additional case studies and automation scripts.
+
+---
+
 ## 🔍 About Me
 
 👩‍💻 *Nandini Goyal*  
