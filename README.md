@@ -191,7 +191,7 @@ Error while trying to create external load balancer (quota limit) -->
 - 📄 R&D Document on Setting up Site-to-Site VPN using Hyper-V Simulation
 
 
-**🔍 Highlights of the Week:**
+**🔍 Highlights of the Week:**<br>
 🛜 Point-to-Site (P2S) VPN – Certificate Auth:
 - Created Virtual Network and Gateway Subnet
 - Deployed Route-based VPN Gateway
