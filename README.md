@@ -179,8 +179,33 @@ Error while trying to create external load balancer (quota limit) -->
 
 ---
 
-### ⏳ Week 8: *(To be updated...)*
-_Stay tuned for upcoming learnings and contributions._
+### ✅ Week 8: VPN Configuration in Azure – Point-to-Site (P2S) & Site-to-Site (S2S)
+**Duration: July 21 – July 27, 2025**<br>
+**Topics Covered:**
+- VPN Fundamentals and Use Cases
+- Azure Point-to-Site (P2S) VPN using Certificate Authentication (macOS)
+- Site-to-Site (S2S) VPN Configuration using Hyper-V (Simulation of On-Premises Network)
+
+**Tasks Completed:**
+- 📄 R&D Document on Setting up Point-to-Site VPN 
+- 📄 R&D Document on Setting up Site-to-Site VPN using Hyper-V Simulation
+
+
+**🔍 Highlights of the Week:**
+🛜 Point-to-Site (P2S) VPN – Certificate Auth:
+- Created Virtual Network and Gateway Subnet
+- Deployed Route-based VPN Gateway
+- Generated self-signed certificates (Root + Client) using macOS Keychain
+- Uploaded root cert to Azure Gateway Configuration
+- Connected to Azure VPN via Tunnelblick using .ovpn config
+
+🌐 Site-to-Site (S2S) VPN – Hyper-V Simulation:
+- Designed topology for VPN between on-premises (simulated via Hyper-V) and Azure
+- Setup Virtual Network Gateway and Local Network Gateway in Azure
+- Configured IPsec/IKE parameters and shared key
+- Outlined steps to connect using RRAS or pfSense on Hyper-V virtual machine
+
+📁 [Week 8 Folder](./Week8)
 
 ---
 
