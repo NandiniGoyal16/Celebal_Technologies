@@ -192,6 +192,7 @@ Error while trying to create external load balancer (quota limit) -->
 
 
 **🔍 Highlights of the Week:**<br>
+
 🛜 Point-to-Site (P2S) VPN – Certificate Auth:
 - Created Virtual Network and Gateway Subnet
 - Deployed Route-based VPN Gateway
